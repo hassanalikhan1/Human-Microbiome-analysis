@@ -1,0 +1,2 @@
+# Human-Microbiome-analysis
+This project is based on the dataset containing the simulated microbiome data of customers and the target variable, which indicates whether the person has disease X or not. The dataset consisted of the userIDs, RNA read counts mapped to 1000 microbe's genome. The code goes in the following sequence.  1) Importing the required libraries 2) Data analysis including cleaning and visualization 3) Data modelling
